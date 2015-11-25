@@ -1,0 +1,20 @@
+{
+  "name": "RepuzzleMenu",
+  "version": "1.0.0",
+  "description": "A responsive meu for repuzzle",
+  "authors": [
+    "Kenneth Radoor <kenneth@imade.dk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-less": "*"
+  }
+}
